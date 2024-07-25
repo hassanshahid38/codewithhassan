@@ -13,7 +13,7 @@ body{
     padding: 20px;
     background: #fff;
     border-radius: 10px;
-    box-shadow: 20px 19px 17px 0px black;
+    box-shadow: 5px 5px 15px 0px black;
     /* margin-bottom: 20px; */
     transition: height 0.2s ease;
 }
